@@ -197,4 +197,4 @@ dependencies:
     - selenium==3.141.0
     - soupsieve==2.3.2.post1
     - webdriver-manager==3.7.1
-prefix: /home/zer0/anaconda3/envs/labs
+prefix: {{PREFIX}}
